@@ -1,45 +1,6 @@
-# r3f-template
+# Three Test
 
-If you are just starting off with react-three-fiber then this template is for you. I have done a basic setup and a few usefull packages along with it.
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-| Packages        | Versions           |
-| ------------- |:-------------:|
-| three      | ^0.137.5 |
-| @react-three/fiber     | ^7.0.26     |
-| @react-three/drei     | ^8.8.1    |
-| @react-spring/three     | ^9.4.2    |
-| zustand     | ^3.6.9    |
-
-## Using this Template
-
-make sure you run `npm install` after cloning this repostiory.
-
-There is a basic example on the repository as well. It is the same example as seen on the react-three-fiber repository page.
-
-More examples are coming soon !
-
-
-## Read more
-
-- Learn more about threejs - [https://threejs.org/](https://threejs.org/)
-- Learn more about react - [https://reactjs.org/](https://reactjs.org/)
-- Learn more about react-three-fiber - [https://github.com/pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber)
-
-## Installed Packages
-
-- [`@react-three/drei`](https://github.com/react-spring/drei) &ndash; useful helpers for react-three-fiber
-- [`zustand`](https://github.com/react-spring/zustand) &ndash; state management
-- [`react-use-gesture`](https://github.com/react-spring/react-use-gesture) &ndash; mouse/touch gestures
-- [`aphrodite`](https://github.com/Khan/aphrodite) &ndash; Support for colocating your styles with your JavaScript component.
-~~-  [`r3f-perf`](https://github.com/RenaudRohlinger/r3f-perf) &ndash; Easily monitor the performances of your React-Three-Fiber application~~ was causing frame drops use <Stats /> from 'drei' instead
-- [`react-three-gui`](https://github.com/ueno-llc/react-three-gui) &ndash; GUI/debug tools
-
-## Showoff
-
-- [Jacob's Creek Wine Guide](https://experiencejacobscreek.com/test) - Made by the [AutoVRse](https://autovrse.in) Team for Jacob's Creek India
-- [Car Configurator](https://webxr.autovrse.in/3d-automotive-configurator) - becoming open source soon !
+An experimental react app to test R3F, Firebase deploying, some github actions, and more.
 
 ## Available NPM Scripts
 
