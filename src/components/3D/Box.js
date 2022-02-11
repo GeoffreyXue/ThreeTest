@@ -1,8 +1,9 @@
 import { useSpring, animated } from "@react-spring/three"
 import { useFrame } from "@react-three/fiber"
-import { useRef, useState } from "react"
+import { useRef, useState, useEffect } from "react"
 
 export default function Box(props) {
+    
     // This reference will give us direct access to the mesh
     const mesh = useRef()
   
